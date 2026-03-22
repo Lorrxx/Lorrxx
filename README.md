@@ -1,4 +1,4 @@
-# Hey, I'm Lorr 👋
+# I'm Lorrxx
 
 💻 Developer | Always building & learning  
 ⚡ Focused on clean, useful projects  
