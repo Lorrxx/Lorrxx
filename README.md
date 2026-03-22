@@ -1,11 +1,14 @@
 # I'm Lorrxx
 
-💻 Developer | Always building & learning  
-⚡ Focused on clean, useful projects  
+<p>
+  <img src="https://img.shields.io/badge/Developer-000?logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Building-000?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-000?logo=book&logoColor=white"/>
+</p>
 
 ---
 
-## 🛠️ Tech
+## Tech
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,14 +20,15 @@
 
 ---
 
-## 📊 Stats
+## Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Lorrxx&show_icons=true&theme=transparent&hide_border=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorrxx&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-## 🌐 Connect
+## Connect
 <div> 
-  <a href="https://github.com/Lorrxx"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <!-- add more if you want -->
+  <a href="https://github.com/Lorrxx">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
