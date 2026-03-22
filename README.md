@@ -20,12 +20,6 @@
 
 ---
 
-## Stats
-![stats](https://github-readme-stats.vercel.app/api?username=Lorrxx&show_icons=true&theme=transparent&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorrxx&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## Connect
 <div> 
   <a href="https://github.com/Lorrxx">
