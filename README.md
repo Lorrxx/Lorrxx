@@ -37,9 +37,9 @@ Currently focused on learning and shipping small, useful projects.
 
 ### Stats
 
-![Lorrxx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorrxx&show_icons=true&theme=transparent&hide_border=true&title_color=7c83f5&icon_color=a78bfa&text_color=dde1f5&ring_color=7c83f5)
+![Lorrxx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorrxx&show_icons=true&theme=dark&hide_border=true&title_color=7c83f5&icon_color=a78bfa&text_color=dde1f5&ring_color=7c83f5&bg_color=0e0e18&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorrxx&layout=compact&theme=transparent&hide_border=true&title_color=7c83f5&text_color=dde1f5&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorrxx&layout=compact&theme=dark&hide_border=true&title_color=7c83f5&text_color=dde1f5&langs_count=6&bg_color=0e0e18)
 
 ---
 
