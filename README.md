@@ -37,8 +37,6 @@ Currently focused on learning and shipping small, useful projects.
 
 ### Stats
 
-![Lorrxx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorrxx&show_icons=true&hide_border=true&title_color=e53535&icon_color=f87171&text_color=e8e8e8&ring_color=e53535&bg_color=0d1117&count_private=true&include_all_commits=true&card_width=450)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Lorrxx&theme=dark&hide_border=true&ring=e53535&fire=f87171&currStreakLabel=e53535&sideLabels=e53535&dates=888888&background=0d1117&stroke=222222)
 
 ---
