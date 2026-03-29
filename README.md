@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7c83f5&height=110&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=e53535&height=110&section=header)
 
 # Lorrxx
 
 IT Technician · London, UK · he/him
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lorrxx&style=flat-square&color=7c83f5&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=Lorrxx&style=flat-square&color=e53535&label=profile+views)
 
 ---
 
@@ -37,16 +37,16 @@ Currently focused on learning and shipping small, useful projects.
 
 ### Stats
 
-![Lorrxx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorrxx&show_icons=true&theme=dark&hide_border=true&title_color=7c83f5&icon_color=a78bfa&text_color=dde1f5&ring_color=7c83f5&bg_color=0e0e18&count_private=true&include_all_commits=true)
+![Lorrxx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorrxx&show_icons=true&hide_border=true&title_color=e53535&icon_color=f87171&text_color=e8e8e8&ring_color=e53535&bg_color=0d1117&count_private=true&include_all_commits=true&card_width=450)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorrxx&layout=compact&theme=dark&hide_border=true&title_color=7c83f5&text_color=dde1f5&langs_count=6&bg_color=0e0e18)
+![GitHub Streak](https://streak-stats.demolab.com?user=Lorrxx&theme=dark&hide_border=true&ring=e53535&fire=f87171&currStreakLabel=e53535&sideLabels=e53535&dates=888888&background=0d1117&stroke=222222)
 
 ---
 
 ### Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lorrxx-7c83f5?style=flat-square&logo=github&logoColor=fff&labelColor=16162a)](https://github.com/Lorrxx)
+[![GitHub](https://img.shields.io/badge/GitHub-Lorrxx-e53535?style=flat-square&logo=github&logoColor=fff&labelColor=161616)](https://github.com/Lorrxx)
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=7c83f5&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=e53535&height=80&section=footer)
