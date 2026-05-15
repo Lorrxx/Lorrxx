@@ -2,7 +2,7 @@
 
 # Lorrxx
 
-IT Technician · London, UK · he/him
+IT Technician · London, UK
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lorrxx&style=flat-square&color=e53535&label=profile+views)
 
