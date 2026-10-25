@@ -1,15 +1,11 @@
 # Lorxx
 
-**IT Technician · London, UK**
+Creator of **[AINCRAFT](https://github.com/Lorrxx/AINCRAFT)** — an independent Minecraft RPG project inspired by Sword Art Online.
 
-I work in IT and develop personal projects that bring together software, gaming and design.
+## Building AINCRAFT
 
-## Featured project
+AINCRAFT reimagines the world of Aincrad in Minecraft: floating floors, quiet towns and adventures beyond the gates. The goal is to capture the atmosphere of SAO while creating a world players can explore and make their own.
 
-### [AINCRAFT](https://github.com/Lorrxx/AINCRAFT)
+The project is still taking shape. Alongside the world, I'm developing a dedicated Windows launcher to make getting started simple.
 
-An independent Minecraft RPG project inspired by Sword Art Online and the world of Aincrad. I'm building the game alongside a dedicated Windows launcher that makes getting started straightforward.
-
-The project is in active development, with the launcher available to download.
-
-[Explore AINCRAFT](https://github.com/Lorrxx/AINCRAFT) · [Download the launcher](https://github.com/Lorrxx/AINCRAFT/releases/tag/v0.3.15)
+[Explore the project](https://github.com/Lorrxx/AINCRAFT) · [Download the launcher](https://github.com/Lorrxx/AINCRAFT/releases/tag/v0.3.15) · [Join the community](https://discord.gg/KXcuErk7VK)
