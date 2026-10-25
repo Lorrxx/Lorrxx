@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="32" viewBox="0 0 172 32" role="img" aria-labelledby="title">
+  <title id="title">Windows installer</title>
+  <rect x="0.5" y="0.5" width="171" height="31" rx="4" fill="#202b38" stroke="#435366"/>
+  <path d="M15 9l6-1v6h-6zM23 8l7-1v7h-7zM15 16h6v6l-6-1zM23 16h7v7l-7-1z" fill="#c3e9d4"/>
+  <text x="40" y="20.5" fill="#c3e9d4" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Windows installer</text>
+</svg>

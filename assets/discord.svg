@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="32" viewBox="0 0 190 32" role="img" aria-labelledby="title">
+  <title id="title">Join the community</title>
+  <rect x="0.5" y="0.5" width="189" height="31" rx="4" fill="#202b38" stroke="#435366"/>
+  <path d="M13 9h18v12H19l-5 4v-4h-1z" fill="#d4d0ff"/>
+  <text x="40" y="20.5" fill="#d4d0ff" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Join the community</text>
+</svg>
